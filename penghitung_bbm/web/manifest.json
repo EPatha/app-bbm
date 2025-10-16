@@ -1,0 +1,11 @@
+{
+  "name": "penghitung_bbm",
+  "short_name": "Kalkulator BBM",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "description": "Aplikasi Kalkulator BBM Flutter",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
